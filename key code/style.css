@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(188, 188, 188);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 300px;
+}
+button{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    border-color: aliceblue;
+}
